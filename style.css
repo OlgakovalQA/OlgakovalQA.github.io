@@ -60,3 +60,23 @@ h2 {
 body{
   background-color: #BDB76B
   }
+
+h1{
+  margin-left:-3cm;
+}
+
+h3{
+  margin-left:-2cm;
+}
+
+p{
+  margin-left:-2cm;
+}
+
+img{
+  margin-left:-2cm;
+}
+
+a{
+  margin-left:-2cm;
+}
